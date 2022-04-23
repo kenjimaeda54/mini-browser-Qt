@@ -2,7 +2,7 @@
 Criar um mini browser para praticar o conceito de text browser
 
 
-## Motivacao 
+## Motivação  
 Aperfeicoar conhecimento em Qt e aplciar conceitos de text browser
 
 
