@@ -64,9 +64,19 @@ void Mini_browser::on_btn_search_clicked()
      ui->gridLayout->addWidget(view);
 }
 
-
-
-
-
-
 ```
+
+
+##
+## ScreenShoot
+
+![home.jpeg](https://github.com/kenjimaeda54/mini-browser-Qt/blob/develop/home.jpeg)
+![search.jpeg](https://github.com/kenjimaeda54/mini-browser-Qt/blob/develop/search.jpeg)
+![google.jpeg](https://github.com/kenjimaeda54/mini-browser-Qt/blob/develop/google.jpeg)
+
+
+
+
+
+
+
